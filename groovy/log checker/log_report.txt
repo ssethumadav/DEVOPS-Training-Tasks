@@ -1,0 +1,7 @@
+
+Log Analysis Report
+===================
+Total Errors: 10
+Invalid Requests: 8
+Request Counts: [GET:25, OPTIONS:1, PROPFIND:4]
+Status Code Counts: [200:20, 404:6, 405:4]

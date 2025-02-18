@@ -1,0 +1,14 @@
+a=10
+c=a++
+println "Post Increment="+c
+println "Value of a Post Increment="+a
+c=++a
+println "Pre Increment="+c
+println "Value of a Pre Increment="+a
+b=10
+c=b--
+println "Post Decrement="+c
+println "Value of b Post Decrement="+b
+c=--b
+println "Pre Decrement="+c
+println "Value of b Pre Decrement="+b
