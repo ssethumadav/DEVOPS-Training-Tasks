@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/your-repo/python-app.git'
+                git 'https://github.com/ssethumadav/DEVOPS-Training-Tasks/blob/main/jenkins_py_example.git'
             }
         }
         
